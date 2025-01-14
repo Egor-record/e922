@@ -1,26 +1,26 @@
 [
   {
-    "id": 1082,
-    "date": "2025-01-14T11:41:17",
-    "date_gmt": "2025-01-14T11:41:17",
+    "id": 1084,
+    "date": "2025-01-14T11:45:14",
+    "date_gmt": "2025-01-14T11:45:14",
     "guid": {
-      "rendered": "https://e922.ru/?p=1082"
+      "rendered": "https://e922.ru/?p=1084"
     },
-    "modified": "2025-01-14T11:41:17",
-    "modified_gmt": "2025-01-14T11:41:17",
-    "slug": "%d1%82%d0%b5%d1%81%d1%82%d0%be%d0%b2%d1%8b%d0%b9-%d0%bf%d0%be%d1%81%d1%82",
+    "modified": "2025-01-14T11:45:14",
+    "modified_gmt": "2025-01-14T11:45:14",
+    "slug": "%d0%bf%d0%be%d1%81%d1%82-%d0%be-%d0%b2%d0%b0%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d0%b7%d0%b0%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%ba%d0%be%d0%b2",
     "status": "publish",
     "type": "post",
-    "link": "https://e922.ru/travel/%d1%82%d0%b5%d1%81%d1%82%d0%be%d0%b2%d1%8b%d0%b9-%d0%bf%d0%be%d1%81%d1%82/",
+    "link": "https://e922.ru/travel/%d0%bf%d0%be%d1%81%d1%82-%d0%be-%d0%b2%d0%b0%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d0%b7%d0%b0%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%ba%d0%be%d0%b2/",
     "title": {
-      "rendered": "Тестовый пост"
+      "rendered": "Пост о важности заголовков"
     },
     "content": {
-      "rendered": "\n<p>Это тестовый пост</p>\n",
+      "rendered": "\n<p>Этот пост был создан для тестирования записи</p>\n",
       "protected": false
     },
     "excerpt": {
-      "rendered": "<p>Это тестовый пост</p>\n",
+      "rendered": "<p>Этот пост был создан для тестирования записи</p>\n",
       "protected": false
     },
     "author": 1,
@@ -38,7 +38,7 @@
     ],
     "tags": [],
     "class_list": [
-      "post-1082",
+      "post-1084",
       "post",
       "type-post",
       "status-publish",
@@ -49,7 +49,7 @@
     "_links": {
       "self": [
         {
-          "href": "https://e922.ru/wp-json/wp/v2/posts/1082",
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1084",
           "targetHints": {
             "allow": [
               "GET"
@@ -76,36 +76,36 @@
       "replies": [
         {
           "embeddable": true,
-          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1082"
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1084"
         }
       ],
       "version-history": [
         {
           "count": 1,
-          "href": "https://e922.ru/wp-json/wp/v2/posts/1082/revisions"
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1084/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 1083,
-          "href": "https://e922.ru/wp-json/wp/v2/posts/1082/revisions/1083"
+          "id": 1085,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1084/revisions/1085"
         }
       ],
       "wp:attachment": [
         {
-          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1082"
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1084"
         }
       ],
       "wp:term": [
         {
           "taxonomy": "category",
           "embeddable": true,
-          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1082"
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1084"
         },
         {
           "taxonomy": "post_tag",
           "embeddable": true,
-          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1082"
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1084"
         }
       ],
       "curies": [

@@ -46,10 +46,7 @@ async function checkForNewPosts() {
         const previousPostIds = previousPosts.map(post => post.id);
         const newPosts = postsFromBlog.filter(post => !previousPostIds.includes(post.id));
         if (newPosts.length > 0) {
-            let commitMessage = "Adding new post";
-            if (newPosts[0] && newPosts[0].title) {
-              commitMessage = String(newPosts[0].title).slice(0, 30);
-            }
+          const commitMessage = newPosts?.[0]?.title?.rendered ? String(newPosts[0].title.rendered).slice(0, 30) : "No title available";
             try {
               await writeToFile(postsFromBlog);
               await pushChanges(commitMessage);
