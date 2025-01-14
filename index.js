@@ -119,5 +119,5 @@ function writeToFile(data) {
   });
 }
 
-checkForNewPosts();
+setInterval(checkForNewPosts, 60000);
 
