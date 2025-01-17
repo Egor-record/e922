@@ -37,7 +37,7 @@ async function checkForNewPosts() {
     try {
         const postsFromBlog = await fetchPostsFromBlog();
         let previousPosts = [];
-        previousPosts = parseOldJSON()
+        previousPosts = await parseOldJSON()
         if (previousPosts && previousPosts.length === 0) {
           await writeToFile(postsFromBlog);
           return
@@ -93,16 +93,20 @@ async function pushChanges(commitMessage) {
 }
 
 function parseOldJSON(previousPosts) {
-  try {
-    if (fs.existsSync(FILE_PATH)) {
+  return new Promise((resolve, reject) => {
+    try {
+      if (fs.existsSync(FILE_PATH)) {
         const fileContent = fs.readFileSync(FILE_PATH, 'utf-8');
         previousPosts = JSON.parse(fileContent);
+        resolve(previousPosts)
+      } else {
+        resolve([])
       }
-  } catch (e) {
-    console.log(e)
-    previousPosts = []
-  }
-  return previousPosts
+      resolve()
+    } catch (e) {
+      reject([])
+    }
+  });
 }
 
 function writeToFile(data) {
