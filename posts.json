@@ -1,31 +1,31 @@
 [
   {
-    "id": 1088,
-    "date": "2025-01-14T12:03:24",
-    "date_gmt": "2025-01-14T12:03:24",
+    "id": 1091,
+    "date": "2025-01-16T11:20:15",
+    "date_gmt": "2025-01-16T11:20:15",
     "guid": {
-      "rendered": "https://e922.ru/?p=1088"
+      "rendered": "https://e922.ru/?p=1091"
     },
-    "modified": "2025-01-14T12:03:24",
-    "modified_gmt": "2025-01-14T12:03:24",
-    "slug": "%d0%bf%d0%be%d1%81%d1%82-%d0%be-%d0%bf%d0%be%d1%82%d0%b5%d1%80%d0%b8-%d1%81%d0%b5%d1%80%d0%be%d1%81%d1%82%d0%b8",
+    "modified": "2025-01-16T11:20:15",
+    "modified_gmt": "2025-01-16T11:20:15",
+    "slug": "%d0%bd%d0%b0-%d0%be%d1%81%d1%82%d1%80%d0%b8%d0%b5-%d1%82%d1%83%d0%bf%d1%8b%d1%85-%d0%bd%d0%be%d0%b6%d0%b5%d0%b9",
     "status": "publish",
     "type": "post",
-    "link": "https://e922.ru/travel/%d0%bf%d0%be%d1%81%d1%82-%d0%be-%d0%bf%d0%be%d1%82%d0%b5%d1%80%d0%b8-%d1%81%d0%b5%d1%80%d0%be%d1%81%d1%82%d0%b8/",
+    "link": "https://e922.ru/%d0%b8%d1%81%d0%ba%d1%83%d1%81%d1%81%d1%82%d0%b2%d0%be/%d0%bd%d0%b0-%d0%be%d1%81%d1%82%d1%80%d0%b8%d0%b5-%d1%82%d1%83%d0%bf%d1%8b%d1%85-%d0%bd%d0%be%d0%b6%d0%b5%d0%b9/",
     "title": {
-      "rendered": "Пост о потери серости"
+      "rendered": "На острие тупых ножей"
     },
     "content": {
-      "rendered": "\n<p>Сдается мне это не с проста</p>\n",
+      "rendered": "\n<pre class=\"wp-block-verse\">В моем сердце холодная война,<br>На улицах — сироты-дети.<br>Я никак не могу найти тебя.<br>В каком городе ты затерялась?<br><br>Кто украл тебя,<br>И с тобой мои сны?<br>Это все правда<br>Или тень реальности?<br><br>Я влюблен в тебя навсегда.<br>Ты говорила: «Утихнет, пройдет», — но рана не зажила.<br>Во всех бунтах, от которых я бегу, есть ты.<br>Я — увядающий на острие тупых ножей.<br><br>Вот уже несколько тысяч лет я живу,<br>И все горю от боли, причиненной тем жестоким.<br>Нет лекарства, я не могу его найти.<br>Я пленник этой беды.<br><br>Тротуары были свидетелями<br>Того, каким величественным был этот конец света.<br>Ты выстрелила в мою грудь<br>Пулей отравленной любви.<br><br>Я влюблен в тебя навсегда.<br>Ты говорила: «Утихнет, пройдет», — но рана не зажила.<br>Во всех бунтах, от которых я бегу, есть ты.<br>Я — увядающий на острие тупых ножей.</pre>\n\n\n\n<p>Автор: <a href=\"https://www.youtube.com/watch?v=AL43yh4cwvQ\">Kör Bıçakların Ucunda · Gaye Su Akyol</a></p>\n\n\n\n<p></p>\n",
       "protected": false
     },
     "excerpt": {
-      "rendered": "<p>Сдается мне это не с проста</p>\n",
+      "rendered": "<p>В моем сердце холодная война,На улицах — сироты-дети.Я никак не могу найти тебя.В каком городе ты затерялась?Кто украл тебя,И с тобой мои сны?Это все правдаИли тень реальности?Я влюблен в тебя навсегда.Ты говорила: «Утихнет, пройдет», — но рана не зажила.Во всех бунтах, от которых я бегу, есть ты.Я — увядающий на острие тупых ножей.Вот уже несколько [&hellip;]</p>\n",
       "protected": false
     },
     "author": 1,
     "featured_media": 0,
-    "comment_status": "closed",
+    "comment_status": "open",
     "ping_status": "",
     "sticky": false,
     "template": "",
@@ -34,22 +34,29 @@
       "footnotes": ""
     },
     "categories": [
-      3
+      98
     ],
-    "tags": [],
+    "tags": [
+      84,
+      206,
+      159
+    ],
     "class_list": [
-      "post-1088",
+      "post-1091",
       "post",
       "type-post",
       "status-publish",
       "format-standard",
       "hentry",
-      "category-travel"
+      "category-98",
+      "tag-84",
+      "tag-206",
+      "tag-159"
     ],
     "_links": {
       "self": [
         {
-          "href": "https://e922.ru/wp-json/wp/v2/posts/1088",
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1091",
           "targetHints": {
             "allow": [
               "GET"
@@ -76,154 +83,36 @@
       "replies": [
         {
           "embeddable": true,
-          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1088"
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1091"
         }
       ],
       "version-history": [
         {
           "count": 1,
-          "href": "https://e922.ru/wp-json/wp/v2/posts/1088/revisions"
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1091/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 1089,
-          "href": "https://e922.ru/wp-json/wp/v2/posts/1088/revisions/1089"
+          "id": 1092,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1091/revisions/1092"
         }
       ],
       "wp:attachment": [
         {
-          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1088"
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1091"
         }
       ],
       "wp:term": [
         {
           "taxonomy": "category",
           "embeddable": true,
-          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1088"
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1091"
         },
         {
           "taxonomy": "post_tag",
           "embeddable": true,
-          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1088"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 1084,
-    "date": "2025-01-14T11:45:14",
-    "date_gmt": "2025-01-14T11:45:14",
-    "guid": {
-      "rendered": "https://e922.ru/?p=1084"
-    },
-    "modified": "2025-01-14T11:45:14",
-    "modified_gmt": "2025-01-14T11:45:14",
-    "slug": "%d0%bf%d0%be%d1%81%d1%82-%d0%be-%d0%b2%d0%b0%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d0%b7%d0%b0%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%ba%d0%be%d0%b2",
-    "status": "publish",
-    "type": "post",
-    "link": "https://e922.ru/travel/%d0%bf%d0%be%d1%81%d1%82-%d0%be-%d0%b2%d0%b0%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d0%b7%d0%b0%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%ba%d0%be%d0%b2/",
-    "title": {
-      "rendered": "Пост о важности заголовков"
-    },
-    "content": {
-      "rendered": "\n<p>Этот пост был создан для тестирования записи</p>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>Этот пост был создан для тестирования записи</p>\n",
-      "protected": false
-    },
-    "author": 1,
-    "featured_media": 0,
-    "comment_status": "closed",
-    "ping_status": "",
-    "sticky": false,
-    "template": "",
-    "format": "standard",
-    "meta": {
-      "footnotes": ""
-    },
-    "categories": [
-      3
-    ],
-    "tags": [],
-    "class_list": [
-      "post-1084",
-      "post",
-      "type-post",
-      "status-publish",
-      "format-standard",
-      "hentry",
-      "category-travel"
-    ],
-    "_links": {
-      "self": [
-        {
-          "href": "https://e922.ru/wp-json/wp/v2/posts/1084",
-          "targetHints": {
-            "allow": [
-              "GET"
-            ]
-          }
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://e922.ru/wp-json/wp/v2/posts"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://e922.ru/wp-json/wp/v2/types/post"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://e922.ru/wp-json/wp/v2/users/1"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1084"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 1,
-          "href": "https://e922.ru/wp-json/wp/v2/posts/1084/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 1085,
-          "href": "https://e922.ru/wp-json/wp/v2/posts/1084/revisions/1085"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1084"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "category",
-          "embeddable": true,
-          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1084"
-        },
-        {
-          "taxonomy": "post_tag",
-          "embeddable": true,
-          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1084"
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1091"
         }
       ],
       "curies": [
