@@ -26,6 +26,7 @@ async function fetchPostsFromBlog() {
         break;
       } else {
         console.log('Unexpected error occurred.');
+console.log(error)
         break;
       }
     }
