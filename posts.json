@@ -1,5 +1,128 @@
 [
   {
+    "id": 1118,
+    "date": "2025-02-06T21:43:45",
+    "date_gmt": "2025-02-06T21:43:45",
+    "guid": {
+      "rendered": "https://e922.ru/?p=1118"
+    },
+    "modified": "2025-02-06T21:43:45",
+    "modified_gmt": "2025-02-06T21:43:45",
+    "slug": "%d0%b2%d0%b5%d1%87%d0%b5%d1%80%d0%bd%d0%b8%d0%b9-%d0%ba%d0%b8%d1%81%d0%ba%d0%b8%d0%bd",
+    "status": "publish",
+    "type": "post",
+    "link": "https://e922.ru/%d1%84%d0%be%d1%82%d0%be%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d0%b8/%d0%b2%d0%b5%d1%87%d0%b5%d1%80%d0%bd%d0%b8%d0%b9-%d0%ba%d0%b8%d1%81%d0%ba%d0%b8%d0%bd/",
+    "title": {
+      "rendered": "Вечерний кискин"
+    },
+    "content": {
+      "rendered": "\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3894-700x933.jpeg\" alt=\"\" class=\"wp-image-1119\" srcset=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3894-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-1200x1600.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-1980x2640.jpeg 1980w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      131
+    ],
+    "tags": [
+      215,
+      84
+    ],
+    "class_list": [
+      "post-1118",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-131",
+      "tag-215",
+      "tag-84"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1118",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1118"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1118/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1120,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1118/revisions/1120"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1118"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1118"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1118"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
     "id": 1105,
     "date": "2025-02-03T22:28:10",
     "date_gmt": "2025-02-03T22:28:10",
