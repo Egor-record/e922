@@ -1,5 +1,130 @@
 [
   {
+    "id": 1135,
+    "date": "2025-02-24T09:15:34",
+    "date_gmt": "2025-02-24T09:15:34",
+    "guid": {
+      "rendered": "https://e922.ru/?p=1135"
+    },
+    "modified": "2025-02-24T09:15:34",
+    "modified_gmt": "2025-02-24T09:15:34",
+    "slug": "%d1%82%d1%80%d0%b8-%d0%b3%d0%be%d0%b4%d0%b0",
+    "status": "publish",
+    "type": "post",
+    "link": "https://e922.ru/%d0%ba%d0%bd%d0%b8%d0%b3%d0%b8/%d1%82%d1%80%d0%b8-%d0%b3%d0%be%d0%b4%d0%b0/",
+    "title": {
+      "rendered": "Три года"
+    },
+    "content": {
+      "rendered": "\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p>Война —<br>    это ветер<br>         трупной вонищи.<br>Война —<br>    завод<br>       по выделке нищих.<br>Могила<br>    безмерная<br>         вглубь и вширь,<br>голод,<br>   грязь,<br>      тифы и вши.<br>Война —<br>    богатым<br>        банки денег,<br>а нам —<br>    костылей<br>         кастаньетный теньк.<br>Война —<br>    приказ,<br>        война —<br>            манифест:<br>— Любите<br>     протезами<br>          жен и невест! —<br>На всей планете,<br>        товарищи люди,<br>объявите:<br>     войны не будет!</p>\n</blockquote>\n\n\n\n<p><a href=\"https://www.culture.ru/poems/21352/doloi\">Владимир Маяковский</a> </p>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Война —    это ветер         трупной вонищи.Война —    завод       по выделке нищих.Могила    безмерная         вглубь и вширь,голод,   грязь,      тифы и вши.Война —    богатым        банки денег,а нам —    костылей         кастаньетный теньк.Война —    приказ,        война —            манифест:— Любите     протезами          жен и невест! —На всей планете,        товарищи люди,объявите:     войны не будет! Владимир Маяковский</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      74
+    ],
+    "tags": [
+      220,
+      219,
+      180
+    ],
+    "class_list": [
+      "post-1135",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-74",
+      "tag-220",
+      "tag-219",
+      "tag-180"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1135",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1135"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1135/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1136,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1135/revisions/1136"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1135"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1135"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1135"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
     "id": 1128,
     "date": "2025-02-16T08:46:55",
     "date_gmt": "2025-02-16T08:46:55",
