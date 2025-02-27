@@ -3,7 +3,7 @@ const axios = require('axios');
 const fs = require('fs');
 const { exec } = require('child_process');
 
-const API_URL = process.env.URL;
+const API_URL = 'https://e922.ru/wp-json/wp/v2/posts';
 const FILE_PATH = './posts.json';
 
 async function fetchPostsFromBlog() {
@@ -26,6 +26,7 @@ async function fetchPostsFromBlog() {
         break;
       } else {
         console.log('Unexpected error occurred.');
+console.log(error)
         break;
       }
     }

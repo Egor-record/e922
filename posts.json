@@ -1,5 +1,1001 @@
 [
   {
+    "id": 1135,
+    "date": "2025-02-24T09:15:34",
+    "date_gmt": "2025-02-24T09:15:34",
+    "guid": {
+      "rendered": "https://e922.ru/?p=1135"
+    },
+    "modified": "2025-02-24T09:15:34",
+    "modified_gmt": "2025-02-24T09:15:34",
+    "slug": "%d1%82%d1%80%d0%b8-%d0%b3%d0%be%d0%b4%d0%b0",
+    "status": "publish",
+    "type": "post",
+    "link": "https://e922.ru/%d0%ba%d0%bd%d0%b8%d0%b3%d0%b8/%d1%82%d1%80%d0%b8-%d0%b3%d0%be%d0%b4%d0%b0/",
+    "title": {
+      "rendered": "Три года"
+    },
+    "content": {
+      "rendered": "\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p>Война —<br>    это ветер<br>         трупной вонищи.<br>Война —<br>    завод<br>       по выделке нищих.<br>Могила<br>    безмерная<br>         вглубь и вширь,<br>голод,<br>   грязь,<br>      тифы и вши.<br>Война —<br>    богатым<br>        банки денег,<br>а нам —<br>    костылей<br>         кастаньетный теньк.<br>Война —<br>    приказ,<br>        война —<br>            манифест:<br>— Любите<br>     протезами<br>          жен и невест! —<br>На всей планете,<br>        товарищи люди,<br>объявите:<br>     войны не будет!</p>\n</blockquote>\n\n\n\n<p><a href=\"https://www.culture.ru/poems/21352/doloi\">Владимир Маяковский</a> </p>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Война —    это ветер         трупной вонищи.Война —    завод       по выделке нищих.Могила    безмерная         вглубь и вширь,голод,   грязь,      тифы и вши.Война —    богатым        банки денег,а нам —    костылей         кастаньетный теньк.Война —    приказ,        война —            манифест:— Любите     протезами          жен и невест! —На всей планете,        товарищи люди,объявите:     войны не будет! Владимир Маяковский</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      74
+    ],
+    "tags": [
+      220,
+      219,
+      180
+    ],
+    "class_list": [
+      "post-1135",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-74",
+      "tag-220",
+      "tag-219",
+      "tag-180"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1135",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1135"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1135/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1136,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1135/revisions/1136"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1135"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1135"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1135"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1128,
+    "date": "2025-02-16T08:46:55",
+    "date_gmt": "2025-02-16T08:46:55",
+    "guid": {
+      "rendered": "https://e922.ru/?p=1128"
+    },
+    "modified": "2025-02-16T08:46:55",
+    "modified_gmt": "2025-02-16T08:46:55",
+    "slug": "%d0%ba%d1%83%d0%bf%d0%b8%d0%bb%d0%b8",
+    "status": "publish",
+    "type": "post",
+    "link": "https://e922.ru/%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8/%d0%ba%d1%83%d0%bf%d0%b8%d0%bb%d0%b8/",
+    "title": {
+      "rendered": "Купили"
+    },
+    "content": {
+      "rendered": "\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2025/02/IMG_4003-700x933.jpeg\" alt=\"\" class=\"wp-image-1129\" srcset=\"https://e922.ru/wp-content/uploads/2025/02/IMG_4003-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2025/02/IMG_4003-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2025/02/IMG_4003-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2025/02/IMG_4003-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2025/02/IMG_4003-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/02/IMG_4003-1200x1600.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/02/IMG_4003-1980x2640.jpeg 1980w, https://e922.ru/wp-content/uploads/2025/02/IMG_4003-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3996-700x933.jpeg\" alt=\"\" class=\"wp-image-1130\" srcset=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3996-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2025/02/IMG_3996-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2025/02/IMG_3996-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2025/02/IMG_3996-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2025/02/IMG_3996-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/02/IMG_3996-1200x1600.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/02/IMG_3996-1980x2640.jpeg 1980w, https://e922.ru/wp-content/uploads/2025/02/IMG_3996-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3992-700x933.jpeg\" alt=\"\" class=\"wp-image-1131\" srcset=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3992-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2025/02/IMG_3992-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2025/02/IMG_3992-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2025/02/IMG_3992-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2025/02/IMG_3992-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/02/IMG_3992-1200x1600.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/02/IMG_3992-1980x2640.jpeg 1980w, https://e922.ru/wp-content/uploads/2025/02/IMG_3992-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      133
+    ],
+    "tags": [
+      218
+    ],
+    "class_list": [
+      "post-1128",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-133",
+      "tag-218"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1128",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1128"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1128/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1132,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1128/revisions/1132"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1128"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1128"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1128"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1121,
+    "date": "2025-02-10T14:15:28",
+    "date_gmt": "2025-02-10T14:15:28",
+    "guid": {
+      "rendered": "https://e922.ru/?p=1121"
+    },
+    "modified": "2025-02-10T14:15:28",
+    "modified_gmt": "2025-02-10T14:15:28",
+    "slug": "%d1%84%d0%be%d1%82%d0%be%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%bc%d0%b5%d1%82%d1%80%d0%be",
+    "status": "publish",
+    "type": "post",
+    "link": "https://e922.ru/%d1%84%d0%be%d1%82%d0%be%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d0%b8/%d1%84%d0%be%d1%82%d0%be%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%bc%d0%b5%d1%82%d1%80%d0%be/",
+    "title": {
+      "rendered": "Фотосессия для метро"
+    },
+    "content": {
+      "rendered": "\n<p>Сегодня провели фотосессию для нового сайта <a href=\"https://thessaloniki-metro.gr/\" data-type=\"link\" data-id=\"https://thessaloniki-metro.gr/\">Метро Салоников</a>, который я разрабатываю в досужее время. </p>\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" data-id=\"1122\" src=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3909-700x525.jpeg\" alt=\"\" class=\"wp-image-1122\" srcset=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3909-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2025/02/IMG_3909-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2025/02/IMG_3909-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2025/02/IMG_3909-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/02/IMG_3909-2048x1536.jpeg 2048w, https://e922.ru/wp-content/uploads/2025/02/IMG_3909-1200x900.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/02/IMG_3909-1980x1485.jpeg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" data-id=\"1123\" src=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3916-700x525.jpeg\" alt=\"\" class=\"wp-image-1123\" srcset=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3916-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2025/02/IMG_3916-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2025/02/IMG_3916-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2025/02/IMG_3916-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/02/IMG_3916-2048x1536.jpeg 2048w, https://e922.ru/wp-content/uploads/2025/02/IMG_3916-1200x900.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/02/IMG_3916-1980x1485.jpeg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" data-id=\"1124\" src=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3926-700x933.jpg\" alt=\"\" class=\"wp-image-1124\" srcset=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3926-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2025/02/IMG_3926-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2025/02/IMG_3926-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2025/02/IMG_3926-1152x1536.jpg 1152w, https://e922.ru/wp-content/uploads/2025/02/IMG_3926-1536x2048.jpg 1536w, https://e922.ru/wp-content/uploads/2025/02/IMG_3926-1200x1600.jpg 1200w, https://e922.ru/wp-content/uploads/2025/02/IMG_3926-1980x2640.jpg 1980w, https://e922.ru/wp-content/uploads/2025/02/IMG_3926-scaled.jpg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Сегодня провели фотосессию для нового сайта Метро Салоников, который я разрабатываю в досужее время.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      133,
+      131
+    ],
+    "tags": [
+      146,
+      216,
+      217
+    ],
+    "class_list": [
+      "post-1121",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-133",
+      "category-131",
+      "tag-146",
+      "tag-216",
+      "tag-217"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1121",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1121"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1121/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1125,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1121/revisions/1125"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1121"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1121"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1121"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1118,
+    "date": "2025-02-06T21:43:45",
+    "date_gmt": "2025-02-06T21:43:45",
+    "guid": {
+      "rendered": "https://e922.ru/?p=1118"
+    },
+    "modified": "2025-02-06T21:43:45",
+    "modified_gmt": "2025-02-06T21:43:45",
+    "slug": "%d0%b2%d0%b5%d1%87%d0%b5%d1%80%d0%bd%d0%b8%d0%b9-%d0%ba%d0%b8%d1%81%d0%ba%d0%b8%d0%bd",
+    "status": "publish",
+    "type": "post",
+    "link": "https://e922.ru/%d1%84%d0%be%d1%82%d0%be%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d0%b8/%d0%b2%d0%b5%d1%87%d0%b5%d1%80%d0%bd%d0%b8%d0%b9-%d0%ba%d0%b8%d1%81%d0%ba%d0%b8%d0%bd/",
+    "title": {
+      "rendered": "Вечерний кискин"
+    },
+    "content": {
+      "rendered": "\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3894-700x933.jpeg\" alt=\"\" class=\"wp-image-1119\" srcset=\"https://e922.ru/wp-content/uploads/2025/02/IMG_3894-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-1200x1600.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-1980x2640.jpeg 1980w, https://e922.ru/wp-content/uploads/2025/02/IMG_3894-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      131
+    ],
+    "tags": [
+      215,
+      84
+    ],
+    "class_list": [
+      "post-1118",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-131",
+      "tag-215",
+      "tag-84"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1118",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1118"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1118/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1120,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1118/revisions/1120"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1118"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1118"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1118"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1105,
+    "date": "2025-02-03T22:28:10",
+    "date_gmt": "2025-02-03T22:28:10",
+    "guid": {
+      "rendered": "https://e922.ru/?p=1105"
+    },
+    "modified": "2025-02-03T22:30:02",
+    "modified_gmt": "2025-02-03T22:30:02",
+    "slug": "%d0%bc%d0%b0%d0%bd%d1%84%d1%80%d0%b5%d0%b4-%d0%ba%d1%8e%d0%bd-%d0%ba%d0%b0%d0%bd%d1%82",
+    "status": "publish",
+    "type": "post",
+    "link": "https://e922.ru/%d0%ba%d0%bd%d0%b8%d0%b3%d0%b8/%d0%bc%d0%b0%d0%bd%d1%84%d1%80%d0%b5%d0%b4-%d0%ba%d1%8e%d0%bd-%d0%ba%d0%b0%d0%bd%d1%82/",
+    "title": {
+      "rendered": "Манфред Кюн: Кант"
+    },
+    "content": {
+      "rendered": "\n<p>Задача написать интересно полную биографию Иммунуила Канта не из самых простых. Как справедливо замечает, в начале <a href=\"https://www.labirint.ru/books/791741/\">своей книги</a>, Манфред Кюн, нужно постоянно искать баланс между цитированием работ философа и описанием его жизни, которая не сказать, чтобы была богата на события.</p>\n\n\n\n<p>И все же, читая такой объемный труд, включается та магия книги, о которой <a href=\"https://youtu.be/6is1davN-5E?si=pzu5lGW1qshWb3A4\">любят говорить филологи</a>: вместе с автором мы проживаем эту книгу. Книга всегда больше любого, даже самого длинного сериала и читая ее, мы все еще, как бы живем в ней, даже когда не держим ее в руках. </p>\n\n\n\n<p>Закончив книгу, тот Кенингсберг Канта, что так явственно представляется читателю на протяжении всего повествования, опустел и мы предоставленные сами себе, гуляем, осматривая оставшиеся в нашем воображении, созданные автором, театральные декорации книги. Время сесть на бутафорский камень, медленно провести по нему рукой и задуматься, что мы вынесли из этой работы? Попытаюсь ответить на этот вопрос.</p>\n\n\n\n<p>Первое, что перевернуло мое внутренее рассуждение о вещах вокруг, была мысль о том, что пространство, явления, предметы, открываются нам по мере того, на сколько мы можем их воспринять. Так скажем, наше <a href=\"https://e922.ru/%d0%ba%d0%bd%d0%b8%d0%b3%d0%b8/%d1%81%d0%b0%d0%bb%d0%be%d0%bd%d0%b8%d0%ba%d0%b8-%d0%b2-%d1%81%d0%b5%d0%b1%d0%b5/\" data-type=\"post\" data-id=\"1061\">отношение к одному и тому же предмету</a>, может совершенно различаться в зависимости от накопленного нами опыта.</p>\n\n\n\n<p>Вторая мысль, которую, как мне кажется, удалось вынести из книги это понятие категорического императива или высшего принципа нравственности.  </p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p>«Поступай так, чтобы максима твоей воли могла бы быть всеобщим законом»</p>\n</blockquote>\n\n\n\n<p>Ну и третье, что показалось мне любопытным, это отношение Канта к религиозным обрядом, о котором он пишет в своей книге: <a href=\"https://bigenc.ru/c/religiia-v-predelakh-tol-ko-razuma-8d146d\"></a>«Религия в пределах только разума».</p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p>Между «чувственным вогулом, который лапу медвежьей шкуры утром кладет себе на голову с короткой молитвой: „Не убей меня до смерти!“» и «утонченными пуританами и индепендентами в Коннектикуте», возможно, и есть значительное различие в манере веровать, но существенной разницы между ними нет. </p>\n\n\n\n<p>Европейский прелат, управляющий одновременно и церковью, и государством, не отличается от тунгусского шамана. Молитва как <em>«внутреннее, по всей форме</em> совершающееся богослужение» и&nbsp;средство снискания благодати есть особенно вредное «заблуждение суеверия (создание фетиша)». </p>\n\n\n\n<p>Молиться к тому же не очень разумно, ибо это равносильно объявлению о своем желании существу, которое, будучи всезнающим, не нуждается в такого рода объявлении. </p>\n\n\n\n<p>Везде, где ему позволено править, такой клерикализм ведет к поклонению фетишу. Если он станет господствовать в государстве, то это приведет к лицемерию, подорвет честность и верность подданных и тем самым создаст «прямо противоположное тому, что было замыслено»</p>\n</blockquote>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Задача написать интересно полную биографию Иммунуила Канта не из самых простых. Как справедливо замечает, в начале своей книги, Манфред Кюн, нужно постоянно искать баланс между цитированием работ философа и описанием его жизни, которая не сказать, чтобы была богата на события. И все же, читая такой объемный труд, включается та магия книги, о которой любят говорить [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      74
+    ],
+    "tags": [
+      214,
+      196
+    ],
+    "class_list": [
+      "post-1105",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-74",
+      "tag-214",
+      "tag-196"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1105",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1105"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 5,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1105/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1115,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1105/revisions/1115"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1105"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1105"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1105"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1112,
+    "date": "2025-02-03T10:21:57",
+    "date_gmt": "2025-02-03T10:21:57",
+    "guid": {
+      "rendered": "https://e922.ru/?p=1112"
+    },
+    "modified": "2025-02-03T10:21:57",
+    "modified_gmt": "2025-02-03T10:21:57",
+    "slug": "%d1%81%d1%82%d0%b0%d0%b1%d0%b8%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d1%8c",
+    "status": "publish",
+    "type": "post",
+    "link": "https://e922.ru/%d0%ba%d0%bd%d0%b8%d0%b3%d0%b8/%d1%81%d1%82%d0%b0%d0%b1%d0%b8%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d1%8c/",
+    "title": {
+      "rendered": "Стабильность"
+    },
+    "content": {
+      "rendered": "\n<p>Читаю сейчас историю Флоренции, книжка издана в 16 веке Никколой Маккиавелли. Действие в книге происходит в 14 веке. В городе несколько крупных семей, у которых свои замки, вооруженные люди и все друг с другом постоянно выясняют отношения, путем, говоря языком 90-ых, стрелок по тем или иным поводам.</p>\n\n\n\n<p>Так вот, ради интереса загуглил одну из фамилий и выпала статья, которая рассказывает о винодельческой компании, корнями которая уходит вот туда, во Флоренцию 14 века, то есть с 1300-ых годов и по сей день они живут там и выпускают вино под этим же именем. </p>\n\n\n\n<p>Из не менее забавного, среди прочего бизнеса, которым занималась эта семья, было что-то типа: спонсирование Английского короля в войне с Уэльсом.</p>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Читаю сейчас историю Флоренции, книжка издана в 16 веке Никколой Маккиавелли. Действие в книге происходит в 14 веке. В городе несколько крупных семей, у которых свои замки, вооруженные люди и все друг с другом постоянно выясняют отношения, путем, говоря языком 90-ых, стрелок по тем или иным поводам. Так вот, ради интереса загуглил одну из фамилий [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      74
+    ],
+    "tags": [
+      213,
+      212
+    ],
+    "class_list": [
+      "post-1112",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-74",
+      "tag-213",
+      "tag-212"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1112",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1112"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1112/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1113,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1112/revisions/1113"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1112"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1112"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1112"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1100,
+    "date": "2025-01-30T20:02:00",
+    "date_gmt": "2025-01-30T20:02:00",
+    "guid": {
+      "rendered": "https://e922.ru/?p=1100"
+    },
+    "modified": "2025-01-30T21:05:29",
+    "modified_gmt": "2025-01-30T21:05:29",
+    "slug": "%d1%88%d0%b0%d1%80%d0%bb%d0%b8-%d0%b8-%d1%80%d0%be%d1%82%d1%82%d0%b5%d1%80%d0%b4%d0%b0%d0%bc",
+    "status": "publish",
+    "type": "post",
+    "link": "https://e922.ru/%d1%84%d0%be%d1%82%d0%be%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d0%b8/%d1%88%d0%b0%d1%80%d0%bb%d0%b8-%d0%b8-%d1%80%d0%be%d1%82%d1%82%d0%b5%d1%80%d0%b4%d0%b0%d0%bc/",
+    "title": {
+      "rendered": "Шарлеруа и Роттердам"
+    },
+    "content": {
+      "rendered": "\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" data-id=\"1101\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3320-700x933.jpeg\" alt=\"\" class=\"wp-image-1101\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3320-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_3320-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2025/01/IMG_3320-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_3320-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2025/01/IMG_3320-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_3320-1200x1600.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_3320-1980x2640.jpeg 1980w, https://e922.ru/wp-content/uploads/2025/01/IMG_3320-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" data-id=\"1102\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3337-700x525.jpeg\" alt=\"\" class=\"wp-image-1102\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3337-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_3337-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2025/01/IMG_3337-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_3337-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_3337-2048x1536.jpeg 2048w, https://e922.ru/wp-content/uploads/2025/01/IMG_3337-1200x900.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_3337-1980x1485.jpeg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      131
+    ],
+    "tags": [
+      210,
+      209,
+      211,
+      79,
+      188
+    ],
+    "class_list": [
+      "post-1100",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-131",
+      "tag-210",
+      "tag-209",
+      "tag-211",
+      "tag-79",
+      "tag-188"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1100",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1100"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1100/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1106,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1100/revisions/1106"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1100"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1100"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1100"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1093,
+    "date": "2025-01-19T08:00:27",
+    "date_gmt": "2025-01-19T08:00:27",
+    "guid": {
+      "rendered": "https://e922.ru/?p=1093"
+    },
+    "modified": "2025-01-19T08:00:27",
+    "modified_gmt": "2025-01-19T08:00:27",
+    "slug": "%d0%b2%d0%b8%d0%b4%d0%b5%d0%bb%d0%b8-%d1%81%d0%bd%d0%b5%d0%b3",
+    "status": "publish",
+    "type": "post",
+    "link": "https://e922.ru/%d1%84%d0%be%d1%82%d0%be%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d0%b8/%d0%b2%d0%b8%d0%b4%d0%b5%d0%bb%d0%b8-%d1%81%d0%bd%d0%b5%d0%b3/",
+    "title": {
+      "rendered": "Видели снег"
+    },
+    "content": {
+      "rendered": "\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3191-700x525.jpeg\" alt=\"\" class=\"wp-image-1094\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3191-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_3191-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2025/01/IMG_3191-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_3191-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_3191-2048x1536.jpeg 2048w, https://e922.ru/wp-content/uploads/2025/01/IMG_3191-1200x900.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_3191-1980x1485.jpeg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3213-700x933.jpeg\" alt=\"\" class=\"wp-image-1095\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3213-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_3213-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2025/01/IMG_3213-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_3213-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2025/01/IMG_3213-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_3213-1200x1600.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_3213-1980x2640.jpeg 1980w, https://e922.ru/wp-content/uploads/2025/01/IMG_3213-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3202-700x525.jpeg\" alt=\"\" class=\"wp-image-1096\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3202-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_3202-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2025/01/IMG_3202-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_3202-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_3202-2048x1536.jpeg 2048w, https://e922.ru/wp-content/uploads/2025/01/IMG_3202-1200x900.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_3202-1980x1485.jpeg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3187-700x933.jpeg\" alt=\"\" class=\"wp-image-1097\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3187-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_3187-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2025/01/IMG_3187-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_3187-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2025/01/IMG_3187-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_3187-1200x1600.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_3187-1980x2640.jpeg 1980w, https://e922.ru/wp-content/uploads/2025/01/IMG_3187-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      131
+    ],
+    "tags": [
+      207,
+      80,
+      208
+    ],
+    "class_list": [
+      "post-1093",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-131",
+      "tag-207",
+      "tag-80",
+      "tag-208"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1093",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/comments?post=1093"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1093/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1098,
+          "href": "https://e922.ru/wp-json/wp/v2/posts/1093/revisions/1098"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://e922.ru/wp-json/wp/v2/media?parent=1093"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/categories?post=1093"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://e922.ru/wp-json/wp/v2/tags?post=1093"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
     "id": 1091,
     "date": "2025-01-16T11:20:15",
     "date_gmt": "2025-01-16T11:20:15",
@@ -264,7 +1260,7 @@
       "rendered": "Греческие патриоты"
     },
     "content": {
-      "rendered": "\n<p>A lot of Greek patriots feel ashamed because of the way the streets in Thessaloniki look, so they ask tourists to visit the city later, after all the graffiti has been cleaned. That’s why they write on the walls, asking tourists to stay home.</p>\n\n\n\n<p>In fact, since tourists bring value to the economy and could help municipalities clean up the streets, I would recommend everyone visit this city more often.</p>\n\n\n\n<p>And if you are looking for a place to stay, definitely choose Airbnb. Greeks are so welcoming that they even move to cheaper neighborhoods to turn apartments in the city center into Airbnbs.</p>\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" data-id=\"1072\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3104-700x933.jpeg\" alt=\"\" class=\"wp-image-1072\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3104-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-1200x1600.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-1980x2640.jpeg 1980w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" data-id=\"1073\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_2912-700x525.jpeg\" alt=\"\" class=\"wp-image-1073\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_2912-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-2048x1536.jpeg 2048w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-1200x900.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-1980x1485.jpeg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" data-id=\"1074\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_2913-700x525.jpeg\" alt=\"\" class=\"wp-image-1074\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_2913-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-2048x1536.jpeg 2048w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-1200x900.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-1980x1485.jpeg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n",
+      "rendered": "\n<p>A lot of Greek patriots feel ashamed because of the way the streets in Thessaloniki look, so they ask tourists to visit the city later, after all the graffiti has been cleaned. That’s why they write on the walls, asking tourists to stay home.</p>\n\n\n\n<p>In fact, since tourists bring value to the economy and could help municipalities clean up the streets, I would recommend everyone visit this city more often.</p>\n\n\n\n<p>And if you are looking for a place to stay, definitely choose Airbnb. Greeks are so welcoming that they even move to cheaper neighborhoods to turn apartments in the city center into Airbnbs.</p>\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" data-id=\"1072\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3104-700x933.jpeg\" alt=\"\" class=\"wp-image-1072\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_3104-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-1200x1600.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-1980x2640.jpeg 1980w, https://e922.ru/wp-content/uploads/2025/01/IMG_3104-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" data-id=\"1073\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_2912-700x525.jpeg\" alt=\"\" class=\"wp-image-1073\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_2912-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-2048x1536.jpeg 2048w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-1200x900.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_2912-1980x1485.jpeg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" data-id=\"1074\" src=\"https://e922.ru/wp-content/uploads/2025/01/IMG_2913-700x525.jpeg\" alt=\"\" class=\"wp-image-1074\" srcset=\"https://e922.ru/wp-content/uploads/2025/01/IMG_2913-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-2048x1536.jpeg 2048w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-1200x900.jpeg 1200w, https://e922.ru/wp-content/uploads/2025/01/IMG_2913-1980x1485.jpeg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n",
       "protected": false
     },
     "excerpt": {
@@ -1762,7 +2758,7 @@
       "rendered": "Музей борьбы за Македонию"
     },
     "content": {
-      "rendered": "\n<p>Сегодня посетили музей борьбы за Македонию (<em>Μουσείο Μακεδονικού Αγώνα</em>), который находится в самом центре Салоников на улице <strong>Proxenou Koromila 23</strong> (на карте: <a href=\"https://maps.app.goo.gl/1gtGTSJ8j8BQeXso6\">Προξένου Κορομηλά 23, ΤΚ 54622, Θεσσαλονίκη</a>). Входные билеты весьма доступные: <strong>4 евро</strong> на человека. Так что, если вы думаете что посмотреть в Салониках, этот музей может быть отличным дополнением к туру. </p>\n\n\n\n<h2 class=\"wp-block-heading\">Краткая история музея</h2>\n\n\n\n<p>Двухэтажное здание в неоклассическом стиле было построено в 1893 году и некоторое время служило резиденцией для консульства Греции, пока город не перешел под контроль Греции. До той поры, отсюда велась агентурная работа в рамках борьбы за Македонию.</p>\n\n\n\n<p>Генерал Константинос Мазаракис-Айниан, работавший тогда клерком в консульстве так вспомнил те времена: </p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p>«Мой рабочий день начинался в консульстве. С утра до полуночи я работал там. Я встречал людей, приходящих из сельской местности. Маленькая дверь со двора вела в собор. Здесь они не попадались на глаза турецкому часовому, стоявшему перед входом в консульство. Это было информационное и консультационное ведомство по противоборству против Болгар.»</p>\n</blockquote>\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" data-id=\"970\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589541-y-700x933.jpg\" alt=\"\" class=\"wp-image-970\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589541-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589541-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589541-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589541-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /><figcaption class=\"wp-element-caption\">Вид на собор Святого Григория Палама с балкона музея борьбы за Македонию</figcaption></figure>\n</figure>\n\n\n\n<p>После того как Македония вошла в состав Греции в здании музея расположился сельхоз банк, а позже Национальный банк страны, здание которого было разрушено пожаром 1917 года. </p>\n\n\n\n<h2 class=\"wp-block-heading\">Внутри музея</h2>\n\n\n\n<p>Внутри музея можно увидеть экспозиции и миниатюры начиная с 1826 года, старинные карты и османские сабли. </p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589539-y-700x933.jpg\" alt=\"\" class=\"wp-image-972\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589539-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589539-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589539-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589539-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /><figcaption class=\"wp-element-caption\">Кабинет Греческого консула</figcaption></figure>\n\n\n\n<p>Так же в музее представлены национальные костюмы.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300977-y-700x933.jpg\" alt=\"\" class=\"wp-image-973\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300977-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300977-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300977-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300977-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300976-y-700x933.jpg\" alt=\"\" class=\"wp-image-974\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300976-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300976-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300976-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300976-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large is-resized\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589540-y-700x933.jpg\" alt=\"\" class=\"wp-image-975\" style=\"width:610px;height:auto\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589540-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589540-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589540-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589540-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /><figcaption class=\"wp-element-caption\">Газета времен Первой Мировой войны</figcaption></figure>\n\n\n\n<p>На полный просмотр музея уходит примерно 40 минут. На втором этаже можно найти картинную галерею, а в подвале сценки из жизни города.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300978-y-700x933.jpg\" alt=\"\" class=\"wp-image-976\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300978-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300978-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300978-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300978-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<p></p>\n",
+      "rendered": "\n<p>Сегодня посетили музей борьбы за Македонию (<em>Μουσείο Μακεδονικού Αγώνα</em>), который находится в самом центре Салоников на улице <strong>Proxenou Koromila 23</strong> (на карте: <a href=\"https://maps.app.goo.gl/1gtGTSJ8j8BQeXso6\">Προξένου Κορομηλά 23, ΤΚ 54622, Θεσσαλονίκη</a>). Входные билеты весьма доступные: <strong>4 евро</strong> на человека. Так что, если вы думаете что посмотреть в Салониках, этот музей может быть отличным дополнением к туру. </p>\n\n\n\n<h2 class=\"wp-block-heading\">Краткая история музея</h2>\n\n\n\n<p>Двухэтажное здание в неоклассическом стиле было построено в 1893 году и некоторое время служило резиденцией для консульства Греции, пока город не перешел под контроль Греции. До той поры, отсюда велась агентурная работа в рамках борьбы за Македонию.</p>\n\n\n\n<p>Генерал Константинос Мазаракис-Айниан, работавший тогда клерком в консульстве так вспомнил те времена: </p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p>«Мой рабочий день начинался в консульстве. С утра до полуночи я работал там. Я встречал людей, приходящих из сельской местности. Маленькая дверь со двора вела в собор. Здесь они не попадались на глаза турецкому часовому, стоявшему перед входом в консульство. Это было информационное и консультационное ведомство по противоборству против Болгар.»</p>\n</blockquote>\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" data-id=\"970\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589541-y-700x933.jpg\" alt=\"\" class=\"wp-image-970\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589541-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589541-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589541-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589541-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /><figcaption class=\"wp-element-caption\">Вид на собор Святого Григория Палама с балкона музея борьбы за Македонию</figcaption></figure>\n</figure>\n\n\n\n<p>После того как Македония вошла в состав Греции в здании музея расположился сельхоз банк, а позже Национальный банк страны, здание которого было разрушено пожаром 1917 года. </p>\n\n\n\n<h2 class=\"wp-block-heading\">Внутри музея</h2>\n\n\n\n<p>Внутри музея можно увидеть экспозиции и миниатюры начиная с 1826 года, старинные карты и османские сабли. </p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589539-y-700x933.jpg\" alt=\"\" class=\"wp-image-972\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589539-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589539-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589539-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589539-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /><figcaption class=\"wp-element-caption\">Кабинет Греческого консула</figcaption></figure>\n\n\n\n<p>Так же в музее представлены национальные костюмы.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300977-y-700x933.jpg\" alt=\"\" class=\"wp-image-973\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300977-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300977-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300977-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300977-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300976-y-700x933.jpg\" alt=\"\" class=\"wp-image-974\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300976-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300976-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300976-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300976-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large is-resized\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589540-y-700x933.jpg\" alt=\"\" class=\"wp-image-975\" style=\"width:610px;height:auto\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589540-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589540-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589540-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5273860875167589540-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /><figcaption class=\"wp-element-caption\">Газета времен Первой Мировой войны</figcaption></figure>\n\n\n\n<p>На полный просмотр музея уходит примерно 40 минут. На втором этаже можно найти картинную галерею, а в подвале сценки из жизни города.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300978-y-700x933.jpg\" alt=\"\" class=\"wp-image-976\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300978-y-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300978-y-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300978-y-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5276429961395300978-y.jpg 960w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<p></p>\n",
       "protected": false
     },
     "excerpt": {
@@ -2008,7 +3004,7 @@
       "rendered": "Случай в розовом доме"
     },
     "content": {
-      "rendered": "\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" data-id=\"962\" src=\"https://e922.ru/wp-content/uploads/2024/11/IMG_2060-700x525.jpeg\" alt=\"\" class=\"wp-image-962\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/IMG_2060-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-2048x1536.jpeg 2048w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-1200x900.jpeg 1200w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-1980x1485.jpeg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n\n\n\n<p></p>\n",
+      "rendered": "\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-8 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" data-id=\"962\" src=\"https://e922.ru/wp-content/uploads/2024/11/IMG_2060-700x525.jpeg\" alt=\"\" class=\"wp-image-962\" srcset=\"https://e922.ru/wp-content/uploads/2024/11/IMG_2060-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-2048x1536.jpeg 2048w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-1200x900.jpeg 1200w, https://e922.ru/wp-content/uploads/2024/11/IMG_2060-1980x1485.jpeg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n\n\n\n<p></p>\n",
       "protected": false
     },
     "excerpt": {
@@ -5174,7 +6170,7 @@
       "rendered": "Халкидики"
     },
     "content": {
-      "rendered": "\n<p> Второй палец. Lagomandra Beach. </p>\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" data-id=\"791\" src=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0555-700x525.jpg\" alt=\"\" class=\"wp-image-791\" srcset=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0555-700x525.jpg 700w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-300x225.jpg 300w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-768x576.jpg 768w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-1536x1152.jpg 1536w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-2048x1536.jpg 2048w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-1200x900.jpg 1200w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-1980x1485.jpg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0556-700x933.jpg\" alt=\"\" class=\"wp-image-792\" srcset=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0556-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-1152x1536.jpg 1152w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-1536x2048.jpg 1536w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-1200x1600.jpg 1200w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-1980x2640.jpg 1980w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-scaled.jpg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n",
+      "rendered": "\n<p> Второй палец. Lagomandra Beach. </p>\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-9 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" data-id=\"791\" src=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0555-700x525.jpg\" alt=\"\" class=\"wp-image-791\" srcset=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0555-700x525.jpg 700w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-300x225.jpg 300w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-768x576.jpg 768w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-1536x1152.jpg 1536w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-2048x1536.jpg 2048w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-1200x900.jpg 1200w, https://e922.ru/wp-content/uploads/2024/07/IMG_0555-1980x1485.jpg 1980w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0556-700x933.jpg\" alt=\"\" class=\"wp-image-792\" srcset=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0556-700x933.jpg 700w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-225x300.jpg 225w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-768x1024.jpg 768w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-1152x1536.jpg 1152w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-1536x2048.jpg 1536w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-1200x1600.jpg 1200w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-1980x2640.jpg 1980w, https://e922.ru/wp-content/uploads/2024/07/IMG_0556-scaled.jpg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n",
       "protected": false
     },
     "excerpt": {
@@ -5544,7 +6540,7 @@
       "rendered": "Выставка &#8220;Украинский дневник&#8221; Бориса Михаилова"
     },
     "content": {
-      "rendered": "\n<p>Некто Борис Михаилов, артист и фотограф, снимал украинскую хтонь на протяжении 40 лет и теперь гастролирует с ней по странам западной Европы, продавая билеты по 14 евро и книги по 50.&nbsp;</p>\n\n\n\n<p>В книге, кстати сказать, представлены в основном его работы, где он лично стоит на фоне черного полотна, абсолютно голый держа в руке дилдо (позы варьируется). </p>\n\n\n\n<p>Ну и конечно, организаторы, не забыли упомянуть, что вся хтонь, запечатленная на фото, лишь свидетельства тех притеснений, что переживала страна (<em>со стороны СССР, читай России</em>).</p>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:100%\">\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0056-700x933.jpeg\" alt=\"\" class=\"wp-image-744\" srcset=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0056-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2024/07/IMG_0056-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2024/07/IMG_0056-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2024/07/IMG_0056-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2024/07/IMG_0056-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2024/07/IMG_0056-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n</div>\n</div>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" src=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-700x525.jpeg\" alt=\"\" class=\"wp-image-742\" srcset=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-2048x1536.jpeg 2048w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0065-700x933.jpeg\" alt=\"\" class=\"wp-image-745\" srcset=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0065-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2024/07/IMG_0065-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2024/07/IMG_0065-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2024/07/IMG_0065-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2024/07/IMG_0065-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2024/07/IMG_0065-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n",
+      "rendered": "\n<p>Некто Борис Михаилов, артист и фотограф, снимал украинскую хтонь на протяжении 40 лет и теперь гастролирует с ней по странам западной Европы, продавая билеты по 14 евро и книги по 50.&nbsp;</p>\n\n\n\n<p>В книге, кстати сказать, представлены в основном его работы, где он лично стоит на фоне черного полотна, абсолютно голый держа в руке дилдо (позы варьируется). </p>\n\n\n\n<p>Ну и конечно, организаторы, не забыли упомянуть, что вся хтонь, запечатленная на фото, лишь свидетельства тех притеснений, что переживала страна (<em>со стороны СССР, читай России</em>).</p>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:100%\">\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-10 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0056-700x933.jpeg\" alt=\"\" class=\"wp-image-744\" srcset=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0056-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2024/07/IMG_0056-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2024/07/IMG_0056-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2024/07/IMG_0056-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2024/07/IMG_0056-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2024/07/IMG_0056-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n</figure>\n</div>\n</div>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"525\" src=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-700x525.jpeg\" alt=\"\" class=\"wp-image-742\" srcset=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-700x525.jpeg 700w, https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-300x225.jpeg 300w, https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-768x576.jpeg 768w, https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-1536x1152.jpeg 1536w, https://e922.ru/wp-content/uploads/2024/07/IMG_0074-1-2048x1536.jpeg 2048w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"933\" src=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0065-700x933.jpeg\" alt=\"\" class=\"wp-image-745\" srcset=\"https://e922.ru/wp-content/uploads/2024/07/IMG_0065-700x933.jpeg 700w, https://e922.ru/wp-content/uploads/2024/07/IMG_0065-225x300.jpeg 225w, https://e922.ru/wp-content/uploads/2024/07/IMG_0065-768x1024.jpeg 768w, https://e922.ru/wp-content/uploads/2024/07/IMG_0065-1152x1536.jpeg 1152w, https://e922.ru/wp-content/uploads/2024/07/IMG_0065-1536x2048.jpeg 1536w, https://e922.ru/wp-content/uploads/2024/07/IMG_0065-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 700px) 100vw, 700px\" /></figure>\n",
       "protected": false
     },
     "excerpt": {
